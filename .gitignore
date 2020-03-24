@@ -1,5 +1,4 @@
-
-*.ipynb
 *.pages
 *.csv
 *.json
+.ipynb_checkpoint*
